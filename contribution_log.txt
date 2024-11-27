@@ -296,3 +296,4 @@ Commit 294 on 2025-07-18T12:43:35: docs: Update README with new instructions
 Commit 295 on 2025-03-14T13:42:31: fix: Handle edge cases in input validation
 Commit 296 on 2025-11-20T13:28:22: refactor: Simplify complex conditional logic
 Commit 297 on 2025-07-23T13:55:33: chore: Update build scripts
+Commit 298 on 2024-11-27T17:27:23: docs: Clarify API usage in the documentation
