@@ -284,3 +284,4 @@ Commit 282 on 2024-12-02T12:37:06: docs: Add more examples to the documentation
 Commit 283 on 2025-09-23T17:39:12: chore: Update build scripts
 Commit 284 on 2025-08-13T10:53:18: refactor: Optimize query performance
 Commit 285 on 2024-12-03T17:50:40: test: Add integration tests for the API endpoints
+Commit 286 on 2024-11-27T14:59:02: docs: Update README with new instructions
