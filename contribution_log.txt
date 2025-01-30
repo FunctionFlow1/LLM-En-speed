@@ -229,3 +229,4 @@ Commit 227 on 2024-12-18T14:30:57: style: Apply black formatting to the codebase
 Commit 228 on 2025-05-22T14:58:07: refactor: Simplify complex conditional logic
 Commit 229 on 2025-10-22T17:08:54: docs: Update README with new instructions
 Commit 230 on 2025-07-02T17:02:16: style: Remove unused imports and variables
+Commit 231 on 2025-01-30T13:11:13: docs: Clarify API usage in the documentation
