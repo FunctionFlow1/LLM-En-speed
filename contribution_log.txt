@@ -288,3 +288,4 @@ Commit 286 on 2024-11-27T14:59:02: docs: Update README with new instructions
 Commit 287 on 2025-06-20T15:45:01: docs: Update README with new instructions
 Commit 288 on 2025-10-30T11:23:07: test: Add integration tests for the API endpoints
 Commit 289 on 2026-02-05T16:02:52: docs: Add more examples to the documentation
+Commit 290 on 2025-02-19T13:00:36: fix: Handle edge cases in input validation
