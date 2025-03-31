@@ -4,3 +4,4 @@ Commit 2 on 2025-09-08T14:28:07: feat: Implement new feature for core module
 Commit 3 on 2025-08-07T17:41:49: chore: Update dependencies and configuration
 Commit 4 on 2025-08-28T10:37:32: style: Remove unused imports and variables
 Commit 5 on 2025-12-26T15:23:38: refactor: Improve performance of algorithm
+Commit 6 on 2025-03-31T15:41:46: docs: Update README with new instructions
