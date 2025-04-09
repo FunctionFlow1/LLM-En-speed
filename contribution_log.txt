@@ -7,3 +7,4 @@ Commit 5 on 2025-12-26T15:23:38: refactor: Improve performance of algorithm
 Commit 6 on 2025-03-31T15:41:46: docs: Update README with new instructions
 Commit 7 on 2025-06-30T10:38:06: chore: Update build scripts
 Commit 8 on 2025-07-16T17:14:05: docs: Update README with new instructions
+Commit 9 on 2025-04-09T10:25:42: fix: Handle edge cases in input validation
