@@ -114,3 +114,4 @@ Commit 112 on 2025-08-04T17:12:15: style: Apply black formatting to the codebase
 Commit 113 on 2025-10-17T13:32:56: refactor: Optimize query performance
 Commit 114 on 2026-02-03T13:08:56: refactor: Simplify complex conditional logic
 Commit 115 on 2025-09-02T12:35:31: chore: Update dependencies and configuration
+Commit 116 on 2025-04-11T17:30:26: docs: Clarify API usage in the documentation
