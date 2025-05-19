@@ -150,3 +150,4 @@ Commit 148 on 2025-04-09T10:48:30: refactor: Improve performance of algorithm
 Commit 149 on 2025-05-30T14:12:13: style: Apply black formatting to the codebase
 Commit 150 on 2025-03-14T16:12:38: refactor: Improve performance of algorithm
 Commit 151 on 2025-05-30T17:44:57: style: Refactor code for better readability
+Commit 152 on 2025-05-19T17:31:55: test: Add integration tests for the API endpoints
