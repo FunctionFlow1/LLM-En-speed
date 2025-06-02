@@ -162,3 +162,4 @@ Commit 160 on 2026-01-27T15:05:33: feat: Add support for a new data format
 Commit 161 on 2024-11-15T11:48:43: docs: Clarify API usage in the documentation
 Commit 162 on 2026-01-05T15:25:43: feat: Add support for a new data format
 Commit 163 on 2025-08-04T15:19:19: refactor: Optimize query performance
+Commit 164 on 2025-06-02T11:57:02: test: Add unit tests for new functionality
