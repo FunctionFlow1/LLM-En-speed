@@ -1,0 +1,1 @@
+Commit 0 on 2025-07-17T15:55:12: refactor: Simplify complex conditional logic
