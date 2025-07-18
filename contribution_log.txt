@@ -292,3 +292,4 @@ Commit 290 on 2025-02-19T13:00:36: fix: Handle edge cases in input validation
 Commit 291 on 2026-02-05T09:16:26: feat: Add support for a new data format
 Commit 292 on 2025-10-30T11:09:54: test: Add unit tests for new functionality
 Commit 293 on 2025-07-18T10:16:13: style: Remove unused imports and variables
+Commit 294 on 2025-07-18T12:43:35: docs: Update README with new instructions
