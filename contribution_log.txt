@@ -254,3 +254,4 @@ Commit 252 on 2025-07-21T16:41:56: fix: Resolve issue with memory leak
 Commit 253 on 2025-02-03T15:53:02: fix: Resolve issue with memory leak
 Commit 254 on 2025-12-10T13:44:51: test: Increase test coverage for critical modules
 Commit 255 on 2025-02-26T17:05:45: test: Increase test coverage for critical modules
+Commit 256 on 2025-07-22T17:12:58: docs: Clarify API usage in the documentation
