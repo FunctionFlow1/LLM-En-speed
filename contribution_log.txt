@@ -27,3 +27,4 @@ Commit 25 on 2024-12-31T09:46:48: docs: Add more examples to the documentation
 Commit 26 on 2025-05-14T16:20:51: fix: Resolve issue with memory leak
 Commit 27 on 2025-10-08T15:39:37: docs: Update README with new instructions
 Commit 28 on 2025-10-16T09:23:11: feat: Add support for a new data format
+Commit 29 on 2025-08-15T14:53:42: chore: Update build scripts
