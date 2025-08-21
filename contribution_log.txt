@@ -222,3 +222,4 @@ Commit 220 on 2026-01-20T17:34:47: style: Remove unused imports and variables
 Commit 221 on 2025-03-27T16:03:56: feat: Add support for a new data format
 Commit 222 on 2025-12-12T16:22:03: docs: Add more examples to the documentation
 Commit 223 on 2025-10-29T11:44:42: style: Refactor code for better readability
+Commit 224 on 2025-08-21T14:05:39: style: Apply black formatting to the codebase
