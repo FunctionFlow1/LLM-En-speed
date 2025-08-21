@@ -123,3 +123,4 @@ Commit 121 on 2026-02-11T15:42:15: test: Add unit tests for new functionality
 Commit 122 on 2026-02-19T14:08:11: fix: Resolve issue with memory leak
 Commit 123 on 2024-12-12T15:22:59: test: Add integration tests for the API endpoints
 Commit 124 on 2025-07-23T09:16:12: docs: Update README with new instructions
+Commit 125 on 2025-08-21T12:39:29: docs: Update README with new instructions
