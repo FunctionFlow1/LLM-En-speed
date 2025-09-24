@@ -236,3 +236,4 @@ Commit 234 on 2026-02-03T15:05:03: refactor: Optimize query performance
 Commit 235 on 2025-12-08T12:17:42: docs: Add more examples to the documentation
 Commit 236 on 2024-12-13T16:45:30: test: Add integration tests for the API endpoints
 Commit 237 on 2025-06-18T09:55:33: chore: Update build scripts
+Commit 238 on 2025-09-24T12:53:34: test: Add integration tests for the API endpoints
