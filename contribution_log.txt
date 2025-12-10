@@ -173,3 +173,4 @@ Commit 171 on 2025-09-15T17:42:17: refactor: Optimize query performance
 Commit 172 on 2025-09-05T11:52:46: fix: Handle edge cases in input validation
 Commit 173 on 2025-08-21T13:36:49: test: Increase test coverage for critical modules
 Commit 174 on 2025-03-19T15:48:12: test: Increase test coverage for critical modules
+Commit 175 on 2025-12-10T10:53:00: test: Add integration tests for the API endpoints
