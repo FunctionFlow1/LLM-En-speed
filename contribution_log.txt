@@ -53,3 +53,4 @@ Commit 51 on 2025-06-03T13:52:55: style: Apply black formatting to the codebase
 Commit 52 on 2025-06-04T12:49:02: feat: Add support for a new data format
 Commit 53 on 2024-11-14T16:14:23: feat: Add support for a new data format
 Commit 54 on 2025-02-12T14:51:48: docs: Add more examples to the documentation
+Commit 55 on 2026-01-27T15:17:17: chore: Update build scripts
